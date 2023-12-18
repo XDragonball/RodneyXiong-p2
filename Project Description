@@ -1,0 +1,9 @@
+The purpose of this project is to allow users the ability to create a Christmas Shopping List.
+Items can be removed or added to the Christmas Shopping List at any time.
+If the user is interested in removing an item from the list, the user can select the "Remove" button, next to the item, to remove the item.
+If the user is interested in adding an Item the user can select the "Add Item" button to add an item.
+When the user selects the "Add Item" button. A modal will appear asking the user to enter the item name.
+After the user enters the item name the user can click on the "Add to List" button to add the item to the Christmas Shopping List.
+If the user selects the "Add Item" button and chooses not to add an item to the list. The user can select the (x) button to exit.
+Have fun creating your Christmas Shopping List!
+
